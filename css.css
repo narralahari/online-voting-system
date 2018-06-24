@@ -1,0 +1,3 @@
+  .contmain{width:950px; height:1050px; background:#B4D4EB;position:relative;float:center;}
+  .left{width:600px; height:620px; background:green; position:absolute;left:30px;}
+  .right{width:250px; height:620px; background:#DCDFE1; position:absolute;left:870px;top:190px;border:2px solid black;}
